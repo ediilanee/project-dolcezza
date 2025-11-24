@@ -11,12 +11,8 @@
   },
   "dependencies": {
     "react": "^19.2.0",
-<<<<<<< HEAD
     "react-dom": "^19.2.0",
     "react-router-dom": "^7.9.6"
-=======
-    "react-dom": "^19.2.0"
->>>>>>> 65d5e9e9e3dd20d6259cb07110faddfdf1cbc1c8
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
@@ -30,10 +26,6 @@
     "globals": "^16.5.0",
     "typescript": "~5.9.3",
     "typescript-eslint": "^8.46.3",
-<<<<<<< HEAD
     "vite": "^7.2.4"
-=======
-    "vite": "^7.2.2"
->>>>>>> 65d5e9e9e3dd20d6259cb07110faddfdf1cbc1c8
   }
 }

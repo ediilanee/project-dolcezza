@@ -16,13 +16,10 @@
     "noEmit": true,
     "jsx": "react-jsx",
 
-<<<<<<< HEAD
     /* Aceitar arquivos .jsx */
     "allowJs": true,
     "checkJs": false,
 
-=======
->>>>>>> 65d5e9e9e3dd20d6259cb07110faddfdf1cbc1c8
     /* Linting */
     "strict": true,
     "noUnusedLocals": true,
