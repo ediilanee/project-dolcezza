@@ -5,10 +5,10 @@ import Homescreen from './pages/homescreen.tsx';
 //import Beantobar from './pages/beantobar.jsx';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 //import Rolagem from './pages/rolagem';
-import Pagtodososprodutos from './pages/pagtodososprodutos.tsx';
-import Pagbolos from './pages/pagbolos.tsx';
-import Pagcupcakes from './pages/pagcupcakes.tsx';
-import Pagtrufas from './pages/pagtrufas.tsx';
+import Pagtodososprodutos from './pages/pagtodososprodutos.jsx';
+import Pagbolos from './pages/pagbolos.jsx';
+import Pagcupcakes from './pages/pagcupcakes.jsx';
+import Pagtrufas from './pages/pagtrufas.jsx';
 
 
 
