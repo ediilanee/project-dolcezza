@@ -1,5 +1,5 @@
 import './App.css'
-import Homescreen from './pages/homescreen.tsx';
+import Homescreen from './pages/homescreen.jsx';
 //import Promocoes from './pages/promocoes.jsx';
 //import Negociodaloja from './pages/negociodaloja.jsx';
 //import Beantobar from './pages/beantobar.jsx';
